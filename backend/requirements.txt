@@ -1,0 +1,14 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-dotenv==1.0.0
+supabase==2.3.0
+python-multipart==0.0.6
+
+# Optional: Add these as needed
+# openai==1.10.0          # For AI chat
+# anthropic==0.18.0       # For Claude AI
+# requests==2.31.0        # For external API calls
+# pillow==10.2.0          # For image processing
+# python-jose==3.3.0      # For JWT tokens
+# passlib==1.7.4          # For password hashing
